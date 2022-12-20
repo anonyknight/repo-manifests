@@ -8,6 +8,7 @@
         revision="master" />
 
     <default remote="crimson" revision="master" />
+
     <project name="crimson-portal" />
     <project name="crimson-styleguide" />
     <project name="crimson-damage" />
