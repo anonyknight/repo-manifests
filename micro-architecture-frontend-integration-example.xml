@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Manifest for Educative.io course
+    Microservice Architecture: Practical Implementation
+    Links and Client-side integration examples-->
+    <remote name="crimson"
+        fetch="https://github.com/ewolff"
+        revision="master" />
+
+    <default remote="crimson" revision="master" />
+    <project name="crimson-portal" />
+    <project name="crimson-styleguide" />
+    <project name="crimson-damage" />
+    <project name="crimson-letter" />
+    <project name="crimson-postbox" />
+    <project name="crimson-backend" />
+</manifest>
